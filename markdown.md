@@ -1,6 +1,7 @@
 # Markdown Language in Visual Studio Code
 
 Click Ctrl + Shft + k to open side view
+which will show the output
 <br>
 <br>
 
